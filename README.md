@@ -10,7 +10,15 @@ An AI-powered data visualization app that generates charts, KPIs, and prediction
 - **AI Predictions** — Every chart includes a trend forecast with confidence level and key factors
 - **Multi-provider** — Supports both OpenAI and Anthropic (Claude) models
 
+<img width="1472" height="1067" alt="Screenshot 2026-05-08 at 9 06 33 PM" src="https://github.com/user-attachments/assets/7b3c91d3-2566-477c-92d4-4783c4b1c1fa" />
+
+
 <img width="1465" height="1055" alt="Screenshot 2026-05-08 at 9 11 31 PM" src="https://github.com/user-attachments/assets/436495cc-75bf-4c2b-b083-d930e1d01c7e" />
+
+
+<img width="1437" height="1052" alt="Screenshot 2026-05-08 at 9 06 09 PM" src="https://github.com/user-attachments/assets/aa814a38-6791-44f9-9c7f-0849c5709006" />
+
+
 
 
 
